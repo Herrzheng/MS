@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Beans" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/beans.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="Beans2" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/beans2.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="Beans3" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/beans3.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
